@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="/=c+XryT@(fbQp{[aO4(">Steps</variable></variables><block type="device_show_leds" id="OY`,erC(uFI8J@{(TXpr" disabled="true" x="0" y="0"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id=".p0j;^3}eAkr)ER{%{KR" disabled="true"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="rN;$v8lJ(l}tmb|=@swf" disabled="true"><field name="LEDS">`
+        # # . . . 
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="1J(HsE2m^=;zir9f+[gH" disabled="true"><field name="LEDS">`
+        . # # . . 
+        # # . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></xml>
